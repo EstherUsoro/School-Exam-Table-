@@ -1,0 +1,26 @@
+caption{
+    font-size: 50px;
+}
+table, tr,th, td{
+    background-image: url(school background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+th, td {
+    border: 1px dotted #ddd;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: left;
+    background-color: blue;
+}
+th {
+    background: yellowgreen;
+    padding: 30px;
+    text-transform: uppercase;
+}
+
+}
+
+
